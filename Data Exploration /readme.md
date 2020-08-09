@@ -4,7 +4,7 @@
 
 ## Dataset: FordGoBike Data
 
->We are going to investigate Ford GoBike System bike-sharing system covering the greater San Francisco Bay area.
+We are going to investigate Ford GoBike System bike-sharing system covering the greater San Francisco Bay area.
 Data consists of mulitple attributes which gives us the information about
 
 - type of user
@@ -17,7 +17,7 @@ with the help of above data set we are going to explain customer relationship, h
 
 ## Summary of Findings
 
-> - Most of the riders are male.
+- Most of the riders are male.
 - Most of the riders are subscribers.
 - Most of the rides are on weekdays
 - Most of the riders age is in between 30-40
@@ -26,7 +26,7 @@ with the help of above data set we are going to explain customer relationship, h
 
 ## Key Insights for Presentation
 
-> - The company should provide some offers for below catergories to increase their business.
+The company should provide some offers for below catergories to increase their business.
 - for female customers
 - on long rides
 - on weekends
